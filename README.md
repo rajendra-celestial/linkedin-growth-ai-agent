@@ -2,6 +2,8 @@
 
 A Claude Code skills package that turns Claude into a LinkedIn ghostwriter and growth strategist. No app to run, no API key to manage, no database to set up — just skills Claude reads during your conversation, and a plain-markdown content archive it reads and writes to.
 
+Prepared by [rajendragupta.xyz](https://rajendragupta.xyz) and [celestialitverse.com](https://celestialitverse.com).
+
 ## How it works
 
 1. Open this folder in Claude Code.
@@ -31,6 +33,10 @@ docs/                    Architecture and roadmap
 - [Roadmap](docs/ROADMAP.md) — including what was deliberately left out and why
 - [Content archive guide](content/README.md)
 - [Contributing](CONTRIBUTING.md)
+
+## Credits
+
+Prepared by [rajendragupta.xyz](https://rajendragupta.xyz) and [celestialitverse.com](https://celestialitverse.com).
 
 ## License
 
