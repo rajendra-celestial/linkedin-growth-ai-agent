@@ -1,0 +1,12 @@
+.DS_Store
+.claude/settings.local.json
+
+# Generated content is meant to be committed by default (it's the point of
+# this repo), but ignore the actual markdown files if you'd rather keep your
+# posts private and only version the skills/folder structure. Uncomment to
+# use that mode:
+# content/**/*.md
+# !content/README.md
+# !content/hooks/hook-library.md
+# !content/cta/cta-library.md
+# !content/**/.gitkeep
